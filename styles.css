@@ -41,3 +41,12 @@ body {
   margin-right: calc(var(--width) / -2);
   z-index: 2;
 }
+
+/* Style the active state of the keys */
+.white.active {
+  background-color: #b8b3aa;
+}
+
+.black.active {
+  background-color: #756343;
+}
